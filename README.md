@@ -9,7 +9,7 @@ of my face crashing the table so I decided that I need to learn the basics to at
 with a concussion too soon in the future. 
 ### 2. What is your ideal career progression, if there were no limitations?
 My ideal career progression is to graduate, work in the field for a bit to get experiences and then move up to getting my masters, create my own
-apps and then maybe at some point join in the process of making video games, with a course a great lack of table faceplants during the progression.
+apps and then maybe at some point join in the process of making video games, with of course, a great lack of table faceplants during the progression.
 ### 3. What programming experience do you have? Do you have any web experience?
 I have some exepriences in programming with C, C++ and Java, although in my opinion, I think I might have lost touch with the C languages
 and my Java skills are showing signs as well. Besides those, I also have very vague memories of Python and as for web programming, I still have 
